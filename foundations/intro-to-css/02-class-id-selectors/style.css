@@ -1,0 +1,22 @@
+/* styles.css */
+
+p {
+background-color: color(srgb-linear rgb(252, 148, 148) green blue);
+font-family: "Verdana", "DejaVu San", "sans-serif";
+}
+
+#Number-2 {
+color: rgb(red, green, blue);
+font-size: 36px;
+}
+
+.Number-3 {
+    font-size: 24px;
+}
+
+#Number-4 {
+background-color: rgb(red, rgb(161, 251, 161), blue);
+font-size: 24px;
+font-weight: bold;
+}
+
