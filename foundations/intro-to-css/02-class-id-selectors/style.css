@@ -1,12 +1,12 @@
 /* styles.css */
 
 p {
-background-color: color(#f55050;
+background-color: rgb(245, 80, 80)
 font-family: "Verdana", "DejaVu San", "sans-serif";
 }
 
 #Number-2 {
-color: rgb(#2222e4);
+color: rgb(0, 110, 255)
 font-size: 36px;
 }
 
@@ -15,7 +15,7 @@ font-size: 36px;
 }
 
 #Number-4 {
-background-color: rgb(#a1fba1);
+background-color: rgb(120, 235, 147);
 font-size: 24px;
 font-weight: bold;
 }
